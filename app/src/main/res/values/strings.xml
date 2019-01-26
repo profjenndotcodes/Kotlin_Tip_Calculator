@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">TipCalculator</string>
+    <string name="title_text">Tip Calculator</string>
+    <string name="launcher_activity_image_content_description">Penny from Big Bang Theory as a Waitress</string>
+    <string name="check_amount_prompt">Check Amount</string>
+    <string name="calculate_tip_button_text">Calculate Tip</string>
+    <string-array name="tip_amount_array">
+        <item>Tip Percent</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+    </string-array>
 </resources>
